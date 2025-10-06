@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Skip for now_px-4 py-2 rounded font-_dfa302</name>
+   <tag></tag>
+   <elementGuidId>f65494a4-3b7c-4daf-aa91-40d1161b9f6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/div[2]/div/div[2]/div[4]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Upload&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b0d6c6f1-00e2-48de-97ce-7c567db0b97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 rounded font-articulat font-semibold text-base flex-1 flex justify-center items-center bg-[#A67C52] text-white</value>
+      <webElementGuid>81666f16-7aa4-4603-a8ed-46439abaf989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>0cace5ab-6ea0-49e9-8acb-1106767027b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)] pt-16&quot;]/div[@class=&quot;max-w-[1120px] w-full px-5 py-[30px] text-center flex flex-col justify-between items-center gap-6 mr-0 xl:mr-[224px]&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center z-50&quot;]/div[@class=&quot;bg-white rounded-xl max-w-[calc(100%-40px)] md:max-w-[700px] w-full overflow-hidden max-h-[80vh] overflow-y-auto relative&quot;]/div[@class=&quot;p-4 md:p-6&quot;]/div[@class=&quot;flex justify-between gap-3 mt-16&quot;]/button[@class=&quot;px-4 py-2 rounded font-articulat font-semibold text-base flex-1 flex justify-center items-center bg-[#A67C52] text-white&quot;]</value>
+      <webElementGuid>ed8a60fc-0422-462f-862b-8169748256e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div[2]/div/div[2]/div[4]/button[2]</value>
+      <webElementGuid>62808ce8-18b4-4469-ba18-3e08ca40952a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip for now'])[1]/following::button[1]</value>
+      <webElementGuid>bd67f3a1-04c5-45fd-b022-5f484b26f80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read agreement'])[1]/following::button[2]</value>
+      <webElementGuid>69fb8feb-1771-4007-af1a-390a9197c0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
+      <webElementGuid>0de5c506-4e92-4331-bf33-618384255fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]</value>
+      <webElementGuid>be6edc29-92d5-482d-b6f8-ed1620b45f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>b141a9e0-7a0b-409d-824d-07f5a620f3c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

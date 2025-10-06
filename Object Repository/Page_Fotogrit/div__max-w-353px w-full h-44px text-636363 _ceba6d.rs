@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__max-w-353px w-full h-44px text-636363 _ceba6d</name>
+   <tag></tag>
+   <elementGuidId>ec0b8ebc-57e7-4c8c-851c-f8648811d5aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/form/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Password \*$/ >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ddd5d6f-6365-4116-acc7-f9838424e1ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[353px] w-full h-[44px] text-[#636363] font-medium  px-3 py-[10px] rounded-lg border  bg-transparent outline-none flex justify-between items-center hover:border-[#A46E40] focus:border-[#A46E40] hover:shadow-md focus:shadow-md transition-all duration-300
+                border-[#D5D7DA]
+                 </value>
+      <webElementGuid>948bd9da-9222-4843-b472-f74bf11e7636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)]&quot;]/form[@class=&quot;max-w-[393px] sm:max-w-[393px] w-full px-5 py-5 border-none rounded-md bg-white&quot;]/div[@class=&quot;max-w-[334px] sm:max-w-[353px] w-full&quot;]/div[@class=&quot;max-w-[353px] w-full h-[44px] text-[#636363] font-medium  px-3 py-[10px] rounded-lg border  bg-transparent outline-none flex justify-between items-center hover:border-[#A46E40] focus:border-[#A46E40] hover:shadow-md focus:shadow-md transition-all duration-300
+                border-[#D5D7DA]&quot;]</value>
+      <webElementGuid>dc7745d9-6a7d-4722-bf2f-31d2afa1e77f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/form/div[3]/div</value>
+      <webElementGuid>f227eb85-7700-4a8c-9462-cf14d9f87d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[1]</value>
+      <webElementGuid>adfbcc70-f21b-4085-8dd3-a040eefb25f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[2]</value>
+      <webElementGuid>fb2d5c1d-4b64-43b5-9187-ce02d1c451c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::div[9]</value>
+      <webElementGuid>b0f5efa1-c3cd-412c-ae38-b3fd7c65c82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>b9b911d2-c1c8-41d3-9e01-52f70cc8cac9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

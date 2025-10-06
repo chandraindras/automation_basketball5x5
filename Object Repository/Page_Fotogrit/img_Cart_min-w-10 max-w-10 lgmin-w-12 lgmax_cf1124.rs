@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Cart_min-w-10 max-w-10 lgmin-w-12 lgmax_cf1124</name>
+   <tag></tag>
+   <elementGuidId>0b9f7f93-58cb-48d8-917b-d1c2b661cfd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/header/div/div/div/div/div[3]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Automation Testing Img&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>51a31ca0-37b9-4699-a97b-485d156c03eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-10 max-w-10 lg:min-w-12 lg:max-w-12 xl:min-w-16 xl:max-w-16 w-full h-10 lg:h-12 xl:h-16 rounded-full image-contain</value>
+      <webElementGuid>72ab379d-075b-4584-bb80-67acf7945853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Automation Testing Img</value>
+      <webElementGuid>ffd81fdb-4e44-4a9f-a147-8fd5c93a464e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sin1.contabostorage.com/8aac6b9246204cebb0ee58de836c8d7e:fotogritmedia//profile/AzDxE5Mn6WKKmXDBEfkRUNmehhw3k5AiEQwkZk3c6bLy.png</value>
+      <webElementGuid>97fa0b66-e38c-4c16-9bd3-78967cf2d584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/header[@class=&quot;w-full b bg-white&quot;]/div[@class=&quot;max-w-[1512px] w-full mx-auto px-6 xl:px-20 h-20 flex items-center justify-center&quot;]/div[@class=&quot;flex items-center justify-between w-full&quot;]/div[@class=&quot;hidden md:contents&quot;]/div[@class=&quot;flex flex-row-reverse md:flex-row justify-end gap-4 items-center px-6 md:px-0 py-3 w-full md:w-2/6 undefined&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/div[1]/a[@class=&quot;bebas-Neue font-normal text-2xl leading-8 uppercase text-[#A46E40]&quot;]/img[@class=&quot;min-w-10 max-w-10 lg:min-w-12 lg:max-w-12 xl:min-w-16 xl:max-w-16 w-full h-10 lg:h-12 xl:h-16 rounded-full image-contain&quot;]</value>
+      <webElementGuid>1c8e9a06-4e36-4b08-b1d1-6bcea961d0b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/header/div/div/div/div/div[3]/div/a/img</value>
+      <webElementGuid>2e9c6961-46b6-46b6-9357-6706a5b56d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Automation Testing Img']</value>
+      <webElementGuid>d4b50b01-81e2-4026-8f2b-f0cae2cfc1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/img</value>
+      <webElementGuid>e4cccc08-dc3a-457a-a0e6-036c9a219a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Automation Testing Img' and @src = 'https://sin1.contabostorage.com/8aac6b9246204cebb0ee58de836c8d7e:fotogritmedia//profile/AzDxE5Mn6WKKmXDBEfkRUNmehhw3k5AiEQwkZk3c6bLy.png']</value>
+      <webElementGuid>8d827c21-a324-45cc-84cb-ddbe025239e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

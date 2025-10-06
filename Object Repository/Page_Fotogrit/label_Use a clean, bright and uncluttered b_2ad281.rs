@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Use a clean, bright and uncluttered b_2ad281</name>
+   <tag></tag>
+   <elementGuidId>016b75eb-9122-47ab-afdd-aa4bfd6007a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/div[2]/div/div[2]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.flex.items-start.space-x-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e18a28c8-7563-41fc-9e99-9af763626731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-start space-x-2</value>
+      <webElementGuid>c9554d70-fbcc-42f8-bba0-0510247e5221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree to use photo for public. Read agreement</value>
+      <webElementGuid>b9918b07-6862-422d-81d8-3154155ccdb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)] pt-16&quot;]/div[@class=&quot;max-w-[1120px] w-full px-5 py-[30px] text-center flex flex-col justify-between items-center gap-6 mr-0 xl:mr-[224px]&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center z-50&quot;]/div[@class=&quot;bg-white rounded-xl max-w-[calc(100%-40px)] md:max-w-[700px] w-full overflow-hidden max-h-[80vh] overflow-y-auto relative&quot;]/div[@class=&quot;p-4 md:p-6&quot;]/div[@class=&quot;mb-4&quot;]/label[@class=&quot;flex items-start space-x-2&quot;]</value>
+      <webElementGuid>c7d47bdd-d9bc-455a-8792-f6a97a8f7ff8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div[2]/div/div[2]/div[2]/label</value>
+      <webElementGuid>4fe8b637-3767-414e-bae0-b8d09502b9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use a clean, bright and uncluttered background'])[1]/following::label[1]</value>
+      <webElementGuid>1ebdcd4f-4f53-40ef-801a-cb74043e1ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No filters or heavy editing, keep it natural and professional'])[1]/following::label[1]</value>
+      <webElementGuid>5f62340d-7b43-4670-833e-d658d7d58e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>4810f172-9fae-461e-b288-00df333664c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I agree to use photo for public. Read agreement' or . = 'I agree to use photo for public. Read agreement')]</value>
+      <webElementGuid>fefa7f91-a15a-4f50-90d9-45b5522e769f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

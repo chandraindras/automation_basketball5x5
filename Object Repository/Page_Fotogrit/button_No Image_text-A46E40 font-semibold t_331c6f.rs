@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No Image_text-A46E40 font-semibold t_331c6f</name>
+   <tag></tag>
+   <elementGuidId>1603b0b6-9e07-4118-8815-a088b31fe604</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Change picture&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8b1c862-8d8c-41e5-afa9-bb3fc34eebe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2fbb4761-9cd8-44cb-ab4f-d5f79c39460f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#A46E40] font-semibold text-xs md:text-sm font-articulat</value>
+      <webElementGuid>60e89f7b-141e-4f81-9161-71e1495f87e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change picture</value>
+      <webElementGuid>1c6f4fb2-6005-4508-a77f-e2db6e312ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)] pt-16&quot;]/div[@class=&quot;max-w-[1120px] w-full px-5 py-[30px] text-center flex flex-col justify-between items-center gap-6 mr-0 xl:mr-[224px]&quot;]/div[@class=&quot;w-full&quot;]/form[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;mb-8 flex flex-col gap-6 md:flex-row lg:gap-[60px]&quot;]/div[@class=&quot;w-full space-y-0&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-col items-start p-[16px] md:p-[30px] border rounded-lg shadow-sm mb-4'}&quot;]/div[@class=&quot;flex items-center md:gap-6 gap-2&quot;]/div[@class=&quot;flex gap-4&quot;]/button[@class=&quot;text-[#A46E40] font-semibold text-xs md:text-sm font-articulat&quot;]</value>
+      <webElementGuid>b3206acc-53fb-4539-9e9f-a803b48feb8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>ab970174-3198-4d45-a6f9-d586131a48f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div/form/div/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>57f5485b-dfb7-4ac5-b9a5-e2ab3cb0bbc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Image'])[1]/following::button[1]</value>
+      <webElementGuid>9d1f82d5-a733-480c-8b8f-011f97ee42d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Picture'])[1]/following::button[1]</value>
+      <webElementGuid>75535a1a-f08d-4f68-b6ed-35d4f51bdf11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal information'])[1]/preceding::button[1]</value>
+      <webElementGuid>0903f955-59f2-4eaf-83bf-5c86be8bd9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit my profile visibility'])[1]/preceding::button[1]</value>
+      <webElementGuid>e402c186-b66c-423f-838d-708ea72040e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Change picture']/parent::*</value>
+      <webElementGuid>6b3a02b2-1798-43a5-854a-ed61184d0a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>11966736-ad03-4b2c-a6ad-872ad921f14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Change picture' or . = 'Change picture')]</value>
+      <webElementGuid>92ece83c-c347-4913-92a3-3e3293fa2b76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

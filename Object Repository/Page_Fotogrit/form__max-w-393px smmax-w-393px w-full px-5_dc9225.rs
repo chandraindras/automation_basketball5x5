@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form__max-w-393px smmax-w-393px w-full px-5_dc9225</name>
+   <tag></tag>
+   <elementGuidId>8b9f6baf-6cc1-46d0-bed1-3d0e04a109ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Log in with EmailWelcome back! Please enter your detailsEmail *Password *Invalid&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>67eaf351-99f9-40fa-bede-b3d5e8d56ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[393px] sm:max-w-[393px] w-full px-5 py-5 border-none rounded-md bg-white</value>
+      <webElementGuid>77b206d9-1efa-49f6-98a9-3f27eaed9e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm-form-interact-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1b8dae49-b386-4053-9daa-e8c75ed7278d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in with EmailWelcome back! Please enter your detailsEmail *Password *Invalid email or passwordI'm not a robotLet me sign upForgot Password?Log in with WhatsappLog in with GoogleLog in with AppleLog in with SMSDo not have Fotogrit account?Sign Up</value>
+      <webElementGuid>3fbecae6-566c-40f7-9944-a4805ceae142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)]&quot;]/form[@class=&quot;max-w-[393px] sm:max-w-[393px] w-full px-5 py-5 border-none rounded-md bg-white&quot;]</value>
+      <webElementGuid>205e02fa-fbd1-4e63-9a0f-2191061068cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/form</value>
+      <webElementGuid>2404f340-c5fb-45e1-b1e8-04bee0f4066c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>6fd7e0e5-7b61-429b-a69f-26195e7a577a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = concat(&quot;Log in with EmailWelcome back! Please enter your detailsEmail *Password *Invalid email or passwordI&quot; , &quot;'&quot; , &quot;m not a robotLet me sign upForgot Password?Log in with WhatsappLog in with GoogleLog in with AppleLog in with SMSDo not have Fotogrit account?Sign Up&quot;) or . = concat(&quot;Log in with EmailWelcome back! Please enter your detailsEmail *Password *Invalid email or passwordI&quot; , &quot;'&quot; , &quot;m not a robotLet me sign upForgot Password?Log in with WhatsappLog in with GoogleLog in with AppleLog in with SMSDo not have Fotogrit account?Sign Up&quot;))]</value>
+      <webElementGuid>503e3ebb-c1ed-4ba3-91e7-e67ac84de700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

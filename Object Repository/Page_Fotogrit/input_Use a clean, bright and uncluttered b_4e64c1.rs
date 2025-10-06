@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Use a clean, bright and uncluttered b_4e64c1</name>
+   <tag></tag>
+   <elementGuidId>1b87126d-0b61-4543-aec5-b958f2072ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;I agree to use photo for public. Read agreement&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6dbfd576-6280-4928-9d1b-b862b3d48c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>ff2e0576-a922-4605-950b-af2cf6895388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded text-[#A46E40]</value>
+      <webElementGuid>84dbd980-0661-4e7c-a0ab-2a49ede16507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)] pt-16&quot;]/div[@class=&quot;max-w-[1120px] w-full px-5 py-[30px] text-center flex flex-col justify-between items-center gap-6 mr-0 xl:mr-[224px]&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center z-50&quot;]/div[@class=&quot;bg-white rounded-xl max-w-[calc(100%-40px)] md:max-w-[700px] w-full overflow-hidden max-h-[80vh] overflow-y-auto relative&quot;]/div[@class=&quot;p-4 md:p-6&quot;]/div[@class=&quot;mb-4&quot;]/label[@class=&quot;flex items-start space-x-2&quot;]/input[@class=&quot;rounded text-[#A46E40]&quot;]</value>
+      <webElementGuid>02cab85e-c695-4161-8f0a-5022fb7e01e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[2]</value>
+      <webElementGuid>d6dd68d2-76e8-4fcd-8e02-c16d3e980208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div[2]/div/div[2]/div[2]/label/input</value>
+      <webElementGuid>7c1a998a-f346-4637-971e-e291efe8a69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/input</value>
+      <webElementGuid>39fcc2d0-99a1-4af5-8be4-13c7a7c2d1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>f41574ec-bae0-4c9f-a774-9641e6b57145</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

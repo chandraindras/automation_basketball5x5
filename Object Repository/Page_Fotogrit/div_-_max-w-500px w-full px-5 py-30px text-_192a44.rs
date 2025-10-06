@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_-_max-w-500px w-full px-5 py-30px text-_192a44</name>
+   <tag></tag>
+   <elementGuidId>2223b0ab-18c9-4dd5-a645-bd7eaabe3aea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.max-w-\[500px\]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>206028a4-eb32-404d-a9f5-681a4eeb0691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[500px] w-full px-5 py-[30px] text-center h-[680px] flex flex-col justify-between</value>
+      <webElementGuid>8f0dc46d-370d-497e-b93b-cba63d482c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify your identifyWe sent a verification code to chandraindras31@gmail.comEnter the 6-digit code-ContinueDidn't receive the code?Resend codeBack to login</value>
+      <webElementGuid>7b08124c-d051-4a6f-895f-fd8ad99c4610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)]&quot;]/div[@class=&quot;max-w-[500px] w-full px-5 py-[30px] text-center h-[680px] flex flex-col justify-between&quot;]</value>
+      <webElementGuid>6ab42eab-bff9-4352-8e34-e1e5bf19dbbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div</value>
+      <webElementGuid>7c501490-ee6b-485c-9718-f45a8ff00967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>85c8cae2-bedc-4879-aa04-18fbbe6cff25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Verify your identifyWe sent a verification code to chandraindras31@gmail.comEnter the 6-digit code-ContinueDidn&quot; , &quot;'&quot; , &quot;t receive the code?Resend codeBack to login&quot;) or . = concat(&quot;Verify your identifyWe sent a verification code to chandraindras31@gmail.comEnter the 6-digit code-ContinueDidn&quot; , &quot;'&quot; , &quot;t receive the code?Resend codeBack to login&quot;))]</value>
+      <webElementGuid>1f6aba46-16df-428a-9a40-56e2c1bd2d70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

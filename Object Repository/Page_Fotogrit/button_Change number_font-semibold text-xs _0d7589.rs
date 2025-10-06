@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Change number_font-semibold text-xs _0d7589</name>
+   <tag></tag>
+   <elementGuidId>ae878f81-12c7-475a-b313-8961f5b8aaed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Verify your phone number&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b1d1d387-dcdd-4014-94d9-1ae4491039de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>be24badb-b3de-4299-b2a9-05998ac99b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-semibold text-xs md:text-sm font-articulat text-[#A46E40] disabled:opacity-50 disabled:cursor-not-allowed</value>
+      <webElementGuid>f2129bf1-6e37-4f95-9713-9422c3fef1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify your phone number</value>
+      <webElementGuid>bec46d31-1c60-41bb-be66-64f662dfecc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)] pt-16&quot;]/div[@class=&quot;max-w-[1120px] w-full px-5 py-[30px] text-center flex flex-col justify-between items-center gap-6 mr-0 xl:mr-[224px]&quot;]/div[@class=&quot;w-full&quot;]/form[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;mb-8 flex flex-col gap-6 md:flex-row lg:gap-[60px]&quot;]/div[@class=&quot;w-full space-y-6 border p-[16px] md:p-[30px] rounded-lg border-[#E9EAEB]&quot;]/div[@class=&quot;flex flex-col md:flex-row gap-4&quot;]/div[@class=&quot;w-full md:w-[calc(80%-16px)]&quot;]/div[1]/div[@class=&quot;flex justify-between mt-2&quot;]/button[@class=&quot;font-semibold text-xs md:text-sm font-articulat text-[#A46E40] disabled:opacity-50 disabled:cursor-not-allowed&quot;]</value>
+      <webElementGuid>8d9071ae-f77e-400b-9a28-e56ad70152c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>cc6b8da1-97f7-46ea-89f4-c3f085f21c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div/form/div[2]/div[2]/div[3]/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>fe5f72c5-9f46-4a25-b77d-b7fc8ec93c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change number'])[1]/following::button[1]</value>
+      <webElementGuid>87619aa3-91ae-4ab9-ad5f-b4e5a4f5e444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[2]</value>
+      <webElementGuid>5d413f2f-7735-4cc2-99a1-d1ea141a4c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::button[1]</value>
+      <webElementGuid>3adb614f-c166-4cb1-8189-061286914f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change email'])[1]/preceding::button[1]</value>
+      <webElementGuid>fc591d8f-fac6-41d7-b08c-bcfc373a129d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verify your phone number']/parent::*</value>
+      <webElementGuid>72febcbb-4e36-49be-97be-622856ef72f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>49eda3cc-5a34-4d70-aeef-890a7cadc04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Verify your phone number' or . = 'Verify your phone number')]</value>
+      <webElementGuid>a574eecb-d094-474f-8576-35214c3f67a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

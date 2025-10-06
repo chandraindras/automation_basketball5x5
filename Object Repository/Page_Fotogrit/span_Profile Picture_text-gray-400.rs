@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profile Picture_text-gray-400</name>
+   <tag></tag>
+   <elementGuidId>73230bd1-e453-46a6-b7ba-c65dfac22f70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/div/form/div/div[2]/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-gray-400</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;No Image&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f6e26f9-d4c4-4c5e-a76d-1df95ca7f5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-400</value>
+      <webElementGuid>63ad235b-ec1f-4e6e-ae97-e6cde26bcbdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Image</value>
+      <webElementGuid>ebbfffc5-ec32-4965-add0-a47100478896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;md:min-h-[calc(100vh-172px)]&quot;]/div[@class=&quot;py-10&quot;]/div[@class=&quot;w-full bg-white flex justify-center items-center min-h-[calc(100vh-158px)] pt-16&quot;]/div[@class=&quot;max-w-[1120px] w-full px-5 py-[30px] text-center flex flex-col justify-between items-center gap-6 mr-0 xl:mr-[224px]&quot;]/div[@class=&quot;w-full&quot;]/form[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;mb-8 flex flex-col gap-6 md:flex-row lg:gap-[60px]&quot;]/div[@class=&quot;w-full space-y-0&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-col items-start p-[16px] md:p-[30px] border rounded-lg shadow-sm mb-4'}&quot;]/div[@class=&quot;flex items-center md:gap-6 gap-2&quot;]/div[@class=&quot;w-[90px] h-[90px] bg-gray-200 rounded-full flex items-center justify-center&quot;]/span[@class=&quot;text-gray-400&quot;]</value>
+      <webElementGuid>ef1aebaa-98dd-4b60-bda4-b7b829496c92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div/form/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>7e434976-e2cc-4bcb-bc76-16890692c755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Picture'])[1]/following::span[1]</value>
+      <webElementGuid>3c0f009d-8f27-43b9-be2f-5f1ae7bf848e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Picture information'])[1]/following::span[1]</value>
+      <webElementGuid>ed0cd671-ff61-4a9e-a12b-e1f1bffb522c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change picture'])[1]/preceding::span[1]</value>
+      <webElementGuid>8678ab31-8f17-4671-a7ad-ec2a0d72a004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal information'])[1]/preceding::span[1]</value>
+      <webElementGuid>24909885-29cf-4d88-a2c9-548076d22160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Image']/parent::*</value>
+      <webElementGuid>b493024f-ff4f-4e26-8c7f-3736af5e6d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>13b13b85-6c7c-4226-95df-8243f7142ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No Image' or . = 'No Image')]</value>
+      <webElementGuid>67351cb1-74d8-4dd7-8999-4f8bc9f44447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
