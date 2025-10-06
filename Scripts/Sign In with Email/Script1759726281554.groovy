@@ -78,6 +78,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Fotogrit/input__pa
 WebUI.click(findTestObject('Object Repository/Page_Fotogrit/input__robot'))
 WebUI.click(findTestObject('Object Repository/Page_Fotogrit/input__w-full h-44px rounded-md text-white _3c447d'))
 WebUI.delay(15)
-
-
-Coba aku nambahin code baru disini
